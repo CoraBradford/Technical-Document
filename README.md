@@ -44,3 +44,6 @@ Clone the repository:
 git clone https://github.com/CoraBradford/Projects.git
 Open the index.html file in your preferred web browser.
 Explore the documentation to learn more about HTML concepts.
+
+![E397D871-5AEC-4E7F-8C80-F05AE518BF41_1_105_c](https://github.com/user-attachments/assets/64816463-cb0a-4b40-97ad-c4c74896768e)
+Screenshot of Technical Document page.
